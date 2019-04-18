@@ -19,7 +19,7 @@ https://localhost
 
 # Rotas
 Para criar usuario novo:
-
+![Image description](https://imgur.com/W91rG7z)
 Para adquirir token de acesso:
 
 Para listar todos os usuários:
@@ -30,4 +30,3 @@ Para listar um único usuário:
 Para atualizar um usuário:
 
 Para excluir um usuário:
-![Image description](https://drive.google.com/file/d/19gbhfQr8cOXuyTkijTuZgNsBaquTNhxx/view?usp=sharing)
