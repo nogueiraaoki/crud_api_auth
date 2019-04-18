@@ -18,23 +18,24 @@ docker-compose up -d
 https://localhost
 
 # Rotas
-Para criar usuario novo:
+
+# Para criar usuario novo:
 ![Image description](https://i.imgur.com/WF6kGSS.png)
 
-Para adquirir token de acesso:
+# Para adquirir token de acesso:
 ![Image description](https://i.imgur.com/W91rG7z.png)
 
-Para listar todos os usuários:
+# Para listar todos os usuários:
 ![Image description](https://i.imgur.com/QVEozn3.png)
 
 
-* próximas ações será preciso do token no header com Authorization: Bearer <token>
+* próximas ações será preciso do token no header com Authorization: Bearer <token_access>
   
-Para listar um único usuário:
+# Para listar um único usuário:
 ![Image description](https://i.imgur.com/vIsOqTQ.png)
 
-Para atualizar um usuário:
+# Para atualizar um usuário:
 ![Image description](https://i.imgur.com/0BvRqI0.png)
 
-Para excluir um usuário:
+# Para excluir um usuário:
 ![Image description](https://i.imgur.com/kAylJz7.png)
