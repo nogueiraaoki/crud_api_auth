@@ -30,5 +30,4 @@ Para listar um único usuário:
 Para atualizar um usuário:
 
 Para excluir um usuário:
-
-Para excluir todos os usuarios:
+![Image description](https://drive.google.com/file/d/19gbhfQr8cOXuyTkijTuZgNsBaquTNhxx/view?usp=sharing)
