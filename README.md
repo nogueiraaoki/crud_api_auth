@@ -19,7 +19,8 @@ https://localhost
 
 # Rotas
 Para criar usuario novo:
-![Image description](https://imgur.com/W91rG7z)
+![Image description](https://i.imgur.com/W91rG7z.png)
+
 Para adquirir token de acesso:
 
 Para listar todos os usuários:
