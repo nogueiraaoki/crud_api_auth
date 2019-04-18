@@ -19,15 +19,17 @@ https://localhost
 
 # Rotas
 Para criar usuario novo:
-![Image description](https://i.imgur.com/W91rG7z.png)
+![Image description](https://i.imgur.com/WF6kGSS.png)
 
 Para adquirir token de acesso:
-![Image description](https://i.imgur.com/WF6kGSS.png)
+![Image description](https://i.imgur.com/W91rG7z.png)
 
 Para listar todos os usuários:
 ![Image description](https://i.imgur.com/QVEozn3.png)
 
+
 * próximas ações será preciso do token no header com Authorization: Bearer <token>
+  
 Para listar um único usuário:
 ![Image description](https://i.imgur.com/vIsOqTQ.png)
 
