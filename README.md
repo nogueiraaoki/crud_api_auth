@@ -29,7 +29,7 @@ https://localhost
 ![Image description](https://i.imgur.com/QVEozn3.png)
 
 
-* próximas ações será preciso do token no header com Authorization: Bearer <token_access>
+* próximas ações será preciso do token no header com Authorization: Bearer <token_access> adquirido no LOGIN
   
 # Para listar um único usuário:
 ![Image description](https://i.imgur.com/vIsOqTQ.png)
