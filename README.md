@@ -2,7 +2,7 @@
 
 Modelo de CRUD REST API em python.
 
-modelo baseado em https://github.com/oleg-agapov/flask-jwt-auth
+modelo criado com referência encontrada em https://github.com/oleg-agapov/flask-jwt-auth
 
 
 # Para executar o projeto
